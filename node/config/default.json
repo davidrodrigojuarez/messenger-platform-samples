@@ -1,6 +1,6 @@
 {
     "appSecret": "6f1ace21af049f10ff2559e93d108ed1",
     "pageAccessToken": "EAAU7kLLjNuEBAAtBJvjtmxAlXrpLvO3ZAbAhxwDo1pBPs7qWwIbiZCaZAbdpfnm8rG9qdZB3MuKr4TEvkqofZCkO55eUvvwC6ZBmGMmw5d7zTcaMlV2RFPA0vwGNdN39lbZAtot1dvBVwdZCE6ucExvabcEAu9KMKALfU8hiZBCshoAZDZD",
-    "validationToken": "hello-worl",
+    "validationToken": "hello-world",
     "serverURL": "https://almacen-b.herokuapp.com/"
 }
